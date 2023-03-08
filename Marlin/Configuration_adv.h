@@ -4206,7 +4206,7 @@
 // @section develop
 
 //
-// M100 Free Memory Watcher to debug memory usage
+// M100 Free Memory Watcher to debug memoAUTOTEMPry usage
 //
 //#define M100_FREE_MEMORY_WATCHER
 
