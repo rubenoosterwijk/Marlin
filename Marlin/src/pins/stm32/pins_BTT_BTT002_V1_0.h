@@ -41,13 +41,13 @@
 //
 #define X_STOP_PIN         PD3
 #define Y_STOP_PIN         PD2
-#define Z_STOP_PIN         PD1   // Shares J4 connector with PC3
+#define Z_STOP_PIN         PC3   // Shares J4 connector with PC3
 
 //
 // Z Probe must be this pin
 //
 #ifndef Z_MIN_PROBE_PIN
-  #define Z_MIN_PROBE_PIN  PD1
+  #define Z_MIN_PROBE_PIN  PC3
 #endif
 
 //
